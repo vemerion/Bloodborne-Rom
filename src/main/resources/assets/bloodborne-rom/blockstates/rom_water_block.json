@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "": { "model": "bloodborne-rom:block/rom_water_block" }
+    }
+}         

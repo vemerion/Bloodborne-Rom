@@ -1,0 +1,47 @@
+{
+  "missile_hit_sound": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "bloodborne-rom:missile_hit_sound",
+        "stream": false
+      }
+    ]
+  },
+  "rom_aoe_sound": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "bloodborne-rom:rom_aoe_sound",
+        "stream": false
+      }
+    ]
+  },
+  "rom_aoe_windup_sound": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "bloodborne-rom:rom_aoe_windup_sound",
+        "stream": false
+      }
+    ]
+  },
+  "rom_spider_cobweb_sound": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "bloodborne-rom:rom_spider_cobweb_sound",
+        "stream": false
+      }
+    ]
+  },
+  "rom_spider_hit_sound": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "bloodborne-rom:rom_spider_hit_sound",
+        "stream": false
+      }
+    ]
+  }
+}  

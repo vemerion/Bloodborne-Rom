@@ -1,0 +1,24 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "bloodborne-rom:item/saw_cleaver_tricked"
+  },
+  "display": {
+    "firstperson_righthand": {
+      "rotation": [ -20, -90, 0 ],
+      "translation": [ 0, 2, -16 ],
+      "scale": [ 2, 2, 1 ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [ -20, 90, 0 ],
+      "translation": [ 0, 2, -16],
+      "scale": [ 2, 2, 2 ]
+    },
+    "gui": {
+      "rotation": [ 0, 0, 0 ],
+      "translation": [ 0.00, 0.00, 0.00 ],
+      "scale": [ 1, 1, 1]
+    }
+    }
+  }
+}

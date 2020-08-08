@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "bloodborne-rom:block/rom_water_block"
+    }
+}             
